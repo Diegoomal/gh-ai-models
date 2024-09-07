@@ -47,7 +47,7 @@ notebooks -> [ 'v1.ipynb', 'v2.ipynb', 'v3.ipynb' ]
 
 ## Links
 
-[github](https://github.com/Diegoomal)
+[github_author](https://github.com/Diegoomal)
 
 [github_models_marketplace](https://github.com/marketplace/models)
 
