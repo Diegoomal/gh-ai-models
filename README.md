@@ -1,31 +1,42 @@
-# Python simple project
+# Github AI Models
 
 ## '.env' file
+
+[generate-token](https://github.com/settings/tokens)
 
 ```
 GITHUB_TOKEN="..."
 ```
 
-## Execute
+## Manage Conda ENV
 
+### Create
+
+```
+conda env create -n gh-ai-models-env -f ./env.yml
+```
+
+### Activate
 ```
 conda activate gh-ai-models-env
-
-conda env create -n gh-ai-models-env -f ./env.yml
-
-python src/main.py
 ```
 
-## Update env
+### Update
 
 ```
 conda env update -n gh-ai-models-env -f ./env.yml
 ```
 
-## Remove env
+### Remove
 
 ```
 conda env remove --n gh-ai-models-env
+```
+
+## Execute
+
+```
+python src/main.py
 ```
 
 ## Links
