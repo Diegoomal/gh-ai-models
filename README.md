@@ -39,8 +39,16 @@ conda env remove --n gh-ai-models-env
 python src/main.py
 ```
 
+## Examples
+
+```
+notebooks -> [ 'v1.ipynb', 'v2.ipynb', 'v3.ipynb' ]
+```
+
 ## Links
 
 [github](https://github.com/Diegoomal)
 
-[tutorial](https://github.com/marketplace/models/azureml-meta/Meta-Llama-3-1-8B-Instruct)
+[github_models_marketplace](https://github.com/marketplace/models)
+
+[github_tutorial](https://github.com/marketplace/models/azureml-meta/Meta-Llama-3-1-8B-Instruct)
